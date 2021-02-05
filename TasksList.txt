@@ -1,0 +1,7 @@
+#Cosa devi fare,entro quando,priorità da 0 a 2
+stirare,01/01/2021,2
+prendere i figli a scuola,12/03/2021,1
+fare una cioccolata calda,23/12/2022,2
+che vita triste madò,02/02/2022,0
+dddddd,14/01/2022,2
+finiscila di chiedermelo non lo so ,23/04/2030,1

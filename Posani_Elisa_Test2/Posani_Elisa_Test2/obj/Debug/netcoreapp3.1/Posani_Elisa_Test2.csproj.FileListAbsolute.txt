@@ -1,0 +1,13 @@
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.exe
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.deps.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.runtimeconfig.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.runtimeconfig.dev.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.dll
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\bin\Debug\netcoreapp3.1\Posani_Elisa_Test2.pdb
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.csprojAssemblyReference.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.AssemblyInfoInputs.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.AssemblyInfo.cs
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.csproj.CoreCompileInputs.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.dll
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.pdb
+C:\Users\elisa.posani\Documents\Corso\Week2\Posani_Test2\Posani_Elisa_Test2\Posani_Elisa_Test2\obj\Debug\netcoreapp3.1\Posani_Elisa_Test2.genruntimeconfig.cache
